@@ -1,2 +1,2 @@
 # MyCodewarCode
-Codewar code
+Some Answer for Codewar problems.

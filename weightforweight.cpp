@@ -7,7 +7,6 @@ int get_weight(std::string& str)
   int result=0;
   for(auto& it:str) result+=it-'0';
   return result;
-  return result;
 }
 std::string orderWeight(const std::string& strng)
 {
